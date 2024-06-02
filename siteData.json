@@ -1,0 +1,69 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "404.md",
+      "title": "Page not found",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "README.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/features.md",
+      "title": "Features",
+      "headings": {
+        "features": "Features",
+        "table-of-contents": "Table of Contents",
+        "useful-features": "Useful Features",
+        "faq": "FAQ",
+        "glossary": "Glossary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/setup.md",
+      "title": "Set Up & Add Tasks",
+      "headings": {
+        "set-up-and-amp-add-tasks": "Set Up &amp; Add Tasks",
+        "table-of-contents": "Table of Contents",
+        "set-up": "Set Up",
+        "add-tasks-to-project-board": "Add Tasks to Project Board",
+        "faq": "FAQ",
+        "glossary": "Glossary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "title": "Topic 3a",
+      "headings": {
+        "topic-3a": "Topic 3a"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "title": "Topic 3b",
+      "headings": {
+        "topic-3b": "Topic 3b"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Home Page",
+      "headings": {
+        "table-of-contents": "Table of Contents",
+        "overview-of-github-project-boards": "Overview of GitHub Project Boards",
+        "overview-of-features": "Overview of Features",
+        "why-is-it-useful-for-cs103": "Why Is It Useful for CS103?",
+        "potential-drawbacks": "Potential Drawbacks"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}

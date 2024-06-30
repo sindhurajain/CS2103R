@@ -113,7 +113,15 @@ Add existing item to Project Board
 </pic>
 <br>
 
-If you have multiple Views in the Project Board, the tasks you have added to any View in the Projcet Board will
+Like any other issue created on GitHub, you can click on the issue on the View page and to manage it. 
+This includes assigning it to a user, adding labels, setting milestones, and more.
+<br>
+<pic src="../images/labels.png" width="700" alt="Add assignees, labels and milestones">
+Add assignees, labels and milestones
+</pic>
+<br>
+
+If you have multiple Views in the Project Board, the tasks you have added to any View in the Project Board will
 be added to all Views in the Project Board. For example, if I add 2 tasks to the Board View, the same 2 tasks
 will also appear in the Table View and Roadmap View.
 <br>
@@ -132,21 +140,7 @@ Same tasks appearing in Roadmap View
 **Q1: What is the difference between Board View, Table View, and Roadmap View?**
 <br>
 <br>
-A: Each view caters to different aspects of project management, allowing teams to choose the best way to 
-visualise their tasks based on their needs.
-
-Board View provides a column-based layout for managing tasks. Tasks, which are usually issues or pull requests are
-visually represented as cards and can be moved between columns to reflect their status 
-(e.g., To Do, In Progress, Done). This View is best for visualising task progression.
-
-Table View presents project tasks in a spreadsheet-like format. Tasks are listed in rows, with customizable columns 
-displaying different attributes (e.g., title, status, assignee, labels, due dates). It allows for sorting and 
-filtering of tasks based on various criteria. This View is best for detailed task management
-and providing a structured overview of all tasks.
-
-Roadmap view provides a timeline-based representation of tasks, helping with planning and tracking tasks both across and
-within milestones. Tasks are shown on a chronological timeline, with start and end dates. 
-This View is best for long-term planning and tracking the alignment of tasks with deadlines
+A: 
 
 **Q2: Can I choose more than one View?**
 <br>

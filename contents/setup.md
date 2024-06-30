@@ -17,10 +17,10 @@
 --------------------------------------------------------------------------------------------------------------------
 
 
-## Set Up
+## Set Up1
 
 !!A. To create a new Project Board that is unlinked to a code repository!!
-1. Log in to GitHub
+1. Log in to GitHub1
 2. Select "Projects" from navigation bar
    <br>
    <pic src="/images/github-nav-bar.png" width="400" alt="GitHub navigation bar">

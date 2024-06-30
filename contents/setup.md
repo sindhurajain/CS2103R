@@ -23,7 +23,8 @@
 1. Log in to GitHub3
 2. Select "Projects" from navigation bar
    <br>
-   <img src="images/github-nav-bar.png" width="400" alt="GitHub navigation bar">
+   <pic src="../images/github-nav-bar.png" width="400" alt="GitHub navigation bar">
+   </pic>
 3. Click on the "New project" button
    <br>
    <pic src="/images/github-new-project-button.png" width="500" alt="New project button">

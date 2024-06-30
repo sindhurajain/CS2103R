@@ -14,7 +14,7 @@ with(this){return _c('h2',{attrs:{"id":"table-of-contents"}},[_v("Table of Conte
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"#set-up"}},[_v("Set Up")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#add-tasks-to-project-board"}},[_v("Add Tasks to Project Board")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#faq"}},[_v("FAQ")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#glossary"}},[_v("Glossary")])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"set-up"}},[_v("Set Up"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#set-up","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"set-up1"}},[_v("Set Up1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#set-up1","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"underline"},[_v("A. To create a new Project Board that is unlinked to a code repository")])])}

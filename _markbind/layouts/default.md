@@ -6,12 +6,15 @@
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GitHub Project Boards for tP</a>
     <li><a href="{{baseUrl}}/index.html" class="nav-link">Home</a></li>
-    <li><a href="{{baseUrl}}/contents/setup.html" class="nav-link">Set Up & Add Tasks</a></li>
-    <li><a href="{{baseUrl}}/contents/features.html" class="nav-link">Features</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+    <li><a href="{{baseUrl}}/contents/setup.html" class="nav-link">Set Up</a></li>
+    <li><a href="{{baseUrl}}/contents/addtasks.html" class="nav-link">Add Tasks</a></li>
+    <dropdown header="Features" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/addingfields.html" class="dropdown-item">Adding Fields to Tasks</a></li>
+      <li><a href="{{baseUrl}}/contents/visualisation.html" class="dropdown-item">Visualisation of Tasks in Different Formats</a></li>
+      <li><a href="{{baseUrl}}/contents/insights.html" class="dropdown-item">Automated Insights</a></li>
+      <li><a href="{{baseUrl}}/contents/workflows.html" class="dropdown-item">Creating Automated Workflows</a></li>
     </dropdown>
+    <li><a href="{{baseUrl}}/contents/faqglossary.html" class="nav-link">FAQ & Glossary</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -28,11 +31,14 @@
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home]({{ baseUrl }}/index.html)
-* [Set Up & Add Tasks]({{baseUrl}}/contents/setup.html)
-* [Features]({{baseUrl}}/contents/features.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* [Set Up]({{baseUrl}}/contents/setup.html)
+* [Add Tasks]({{baseUrl}}/contents/addtasks.html)
+* Features :expanded:
+  * [Adding Fields to Tasks]({{baseUrl}}/contents/addingfields.html)
+  * [Visualisation of Tasks in Different Formats]({{baseUrl}}/contents/visualisation.html)
+  * [Automated Insights]({{baseUrl}}/contents/insights.html)
+  * [Creating Automated Workflows]({{baseUrl}}/contents/workflows.html)
+* [FAQ & Glossary]({{baseUrl}}/contents/faqglossary.html)
       </site-nav>
     </div>
   </nav>

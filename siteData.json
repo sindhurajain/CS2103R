@@ -13,43 +13,59 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/features.md",
-      "title": "Features",
+      "src": "contents/addingfields.md",
+      "title": "Adding Fields to Tasks",
       "headings": {
-        "features": "Features",
-        "table-of-contents": "Table of Contents",
-        "useful-features": "Useful Features",
+        "adding-fields-to-tasks": "Adding Fields to Tasks"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/addtasks.md",
+      "title": "Add Tasks",
+      "headings": {
+        "add-tasks-to-project-board": "Add Tasks to Project Board"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/faqglossary.md",
+      "title": "FAQ & Glossary",
+      "headings": {
         "faq": "FAQ",
         "glossary": "Glossary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/insights.md",
+      "title": "Automated Insights",
+      "headings": {
+        "automated-insights": "Automated Insights"
       },
       "headingKeywords": {}
     },
     {
       "src": "contents/setup.md",
-      "title": "Set Up & Add Tasks",
+      "title": "Set Up",
       "headings": {
-        "set-up-and-amp-add-tasks": "Set Up &amp; Add Tasks",
-        "table-of-contents": "Table of Contents",
-        "set-up": "Set Up",
-        "add-tasks-to-project-board": "Add Tasks to Project Board",
-        "faq": "FAQ",
-        "glossary": "Glossary"
+        "set-up": "Set Up"
       },
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic3a.md",
-      "title": "Topic 3a",
+      "src": "contents/visualisation.md",
+      "title": "Visualisation of Tasks in Different Formats",
       "headings": {
-        "topic-3a": "Topic 3a"
+        "visualisation-of-tasks-in-different-formats": "Visualisation of Tasks in Different Formats"
       },
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic3b.md",
-      "title": "Topic 3b",
+      "src": "contents/workflows.md",
+      "title": "Creating Automated Workflows",
       "headings": {
-        "topic-3b": "Topic 3b"
+        "creating-automated-workflows": "Creating Automated Workflows"
       },
       "headingKeywords": {}
     },

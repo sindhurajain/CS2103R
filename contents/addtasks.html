@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="MarkBind 5.5.2">
+    <meta name="viewport" content="width=device-width, initial-scale=1"><title>Add Tasks</title> <link rel="stylesheet" href="/CS2103R/markbind/css/bootstrap.min.css"> <link rel="stylesheet" href="/CS2103R/markbind/fontawesome/css/all.min.css"> <link rel="stylesheet" href="/CS2103R/markbind/glyphicons/css/bootstrap-glyphicons.min.css"><link rel="stylesheet" href="/CS2103R/markbind/css/codeblock-dark.min.css"><link rel="stylesheet" href="/CS2103R/markbind/css/markbind.min.css"><link rel="stylesheet" href="/CS2103R/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css"><link rel="stylesheet" href="/CS2103R/plugins/markbind-plugin-tree/markbind-plugin-tree.css">
+    
+  <link rel="stylesheet" href="/CS2103R/stylesheets/main.css">
+</head>
+<script>
+  const baseUrl = '/CS2103R'
+</script>
+<body >
+<div id="app" data-server-rendered="true"><header sticky=""><div data-v-7c0fd418><nav class="navbar navbar-expand-md d-print-none navbar-dark bg-dark" data-v-7c0fd418><div class="container-fluid" data-v-7c0fd418><div class="navbar-left" data-v-7c0fd418><a href="/CS2103R/index.html" title="Home" class="navbar-brand" data-v-7c0fd418>GitHub Project Boards for tP</a></div> <div class="navbar-default" data-v-7c0fd418><ul class="navbar-nav me-auto mt-2 mt-lg-0" data-v-7c0fd418> <li data-v-7c0fd418><a href="/CS2103R/index.html" class="nav-link" data-v-7c0fd418>Home</a></li> <li data-v-7c0fd418><a href="/CS2103R/contents/setup.html" class="nav-link" data-v-7c0fd418>Set Up</a></li> <li data-v-7c0fd418><a href="/CS2103R/contents/addtasks.html" class="nav-link" data-v-7c0fd418>Add Tasks</a></li> <li class="nav-link dropdown" data-v-ccda25c0><a role="button" data-bs-toggle="dropdown" class="dropdown-toggle nav-link" data-v-ccda25c0>Features</a> <ul class="dropdown-menu" data-v-ccda25c0> <li data-v-ccda25c0><a href="/CS2103R/contents/addingfields.html" class="dropdown-item" data-v-ccda25c0>Adding Fields to Tasks</a></li> <li data-v-ccda25c0><a href="/CS2103R/contents/visualisation.html" class="dropdown-item" data-v-ccda25c0>Visualisation of Tasks in Different Formats</a></li> <li data-v-ccda25c0><a href="/CS2103R/contents/insights.html" class="dropdown-item" data-v-ccda25c0>Automated Insights</a></li> <li data-v-ccda25c0><a href="/CS2103R/contents/workflows.html" class="dropdown-item" data-v-ccda25c0>Creating Automated Workflows</a></li></ul></li> <li data-v-7c0fd418><a href="/CS2103R/contents/faqglossary.html" class="nav-link" data-v-7c0fd418>FAQ &amp; Glossary</a></li></ul></div> <ul class="navbar-nav navbar-right" data-v-7c0fd418><li data-v-7c0fd418><form class="navbar-form" data-v-7c0fd418><div class="dropdown" style="position:relative;" data-v-cea1a814><input data-bs-toggle="dropdown" type="text" placeholder="Search" autocomplete="off" value="" class="form-control" data-v-cea1a814> <div class="form-control placeholder-div-hidden" data-v-cea1a814>
+      Search
+    </div> <ul class="dropdown-menu search-dropdown-menu d-none dropdown-menu-end" data-v-cea1a814></ul></div></form></li></ul></div></nav> <div class="lower-navbar-container" style="display:none;" data-v-7c0fd418><!----> <!----></div></div></header> <div id="flex-body"><nav id="site-nav" data-v-e6005420><div class="site-nav-top" data-v-e6005420><div class="fw-bold mb-2" style="font-size:1.25rem;" data-v-e6005420>Contents</div></div> <div class="nav-component slim-scroll" data-v-e6005420><div class="site-nav-root"><ul class="site-nav-list site-nav-list-root" data-v-e6005420><li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-0" data-v-e6005420><a href="/CS2103R/index.html" data-v-e6005420>Home</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-0" data-v-e6005420><a href="/CS2103R/contents/setup.html" data-v-e6005420>Set Up</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-0" data-v-e6005420><a href="/CS2103R/contents/addtasks.html" data-v-e6005420>Add Tasks</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-0" data-v-e6005420>Features 
+
+<div class="site-nav-dropdown-btn-container" data-v-e6005420><i onclick="handleSiteNavClick(this.parentNode.parentNode, false); event.stopPropagation();" class="site-nav-dropdown-btn-icon site-nav-rotate-icon" data-v-e6005420><span aria-hidden="true" class="glyphicon glyphicon-menu-down" data-v-e6005420></span></i></div></div><ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list" data-v-e6005420><li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-1" data-v-e6005420><a href="/CS2103R/contents/addingfields.html" data-v-e6005420>Adding Fields to Tasks</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-1" data-v-e6005420><a href="/CS2103R/contents/visualisation.html" data-v-e6005420>Visualisation of Tasks in Different Formats</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-1" data-v-e6005420><a href="/CS2103R/contents/insights.html" data-v-e6005420>Automated Insights</a></div></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-1" data-v-e6005420><a href="/CS2103R/contents/workflows.html" data-v-e6005420>Creating Automated Workflows</a></div></li></ul></li> <li data-v-e6005420><div onclick="handleSiteNavClick(this)" class="site-nav-default-list-item site-nav-list-item-0" data-v-e6005420><a href="/CS2103R/contents/faqglossary.html" data-v-e6005420>FAQ &amp; Glossary</a></div></li> <!----></ul></div></div> <!----></nav> <div id="content-wrapper"><div data-v-ef898034><nav aria-label="breadcrumb" class="breadcrumb-divider" data-v-ef898034><ol class="breadcrumb" data-v-ef898034><li class="notlink breadcrumb-marker" data-v-ef898034>
+        ››  
+      </li> </ol></nav></div> <br> <h2 id="add-tasks-to-project-board">Add Tasks to Project Board<a href="#add-tasks-to-project-board" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h2> <p>Upon creating the Project Board, you should be able to see the View page,
+depending on the View you selected, as shown in the diagrams below.</p> <p>Board View:
+<br> <span class="image-wrapper"><img src="/CS2103R/images/empty-board.png" alt="Empty board view" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Board View page
+</span></span> <br>
+Table View:
+<br> <span class="image-wrapper"><img src="/CS2103R/images/empty-table.png" alt="Empty table view" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Table View page
+</span></span> <br>
+Roadmap View:
+<br> <span class="image-wrapper"><img src="/CS2103R/images/empty-roadmap.png" alt="Empty roadmap view" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Roadmap View page
+</span></span></p> <p>Once you have the Project Board set up,
+you can add <span data-mb-component-type="tooltip" tabindex="0" class="trigger"><!----><!----></span> to the Project Board.</p> <p>Click on the &quot;Add item&quot; button to either create a new issue or add an item
+from a repository.
+<br> <span class="image-wrapper"><img src="/CS2103R/images/board-add-task.png" alt="Add item" width="400" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Add item
+</span></span> <br></p> <p>If you are adding a new issue, fill in the title and description, then click on the
+&quot;Create&quot; button.
+<br> <span class="image-wrapper"><img src="/CS2103R/images/new-issue.png" alt="Add new issue" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Create a new issue to add to Project Board
+</span></span> <br></p> <p>If you are adding an item from a repository, select one or more available issues or
+pull requests from the dropdown list, then click on the &quot;Add selected items&quot; button
+to add it to the View.
+<br> <span class="image-wrapper"><img src="/CS2103R/images/add-existing-item.png" alt="Add existing item" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Add existing item to Project Board
+</span></span> <br></p> <div class="alert box-container alert-success" data-v-6607c59e><!----> <div class="header-and-body" data-v-6607c59e><!----> <div class="box-body-wrapper" data-v-6607c59e><div class="icon-wrapper" data-v-6607c59e><i class="fas fa-lightbulb" data-v-6607c59e></i></div> <!----> <div class="contents" data-v-6607c59e>
+tP tip:
+<br data-v-6607c59e>
+While a Project Board can display issues or pull requests from multiple repositories, it is better 
+to add issues or pull requests from only your group's forked tP repository to your group's tP Project Board 
+so that you can maintain a more focused view. 
+<br data-v-6607c59e> <br data-v-6607c59e>
+This ensures that all the issues and pull requests you're tracking are relevant to your specific fork, 
+simplifying management of the tasks your group has to complete.
+</div> <!----></div></div></div> <p>Like any other issue created on GitHub, you can click on the issue on the View page and to manage it.
+This includes assigning it to a user, adding labels, setting milestones, and more.
+<br> <span class="image-wrapper"><img src="/CS2103R/images/labels.png" alt="Add assignees, labels and milestones" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Add assignees, labels and milestones
+</span></span> <br></p> <p>If you have multiple Views in the Project Board, the tasks you have added to any View in the Project Board will
+be added to all Views in the Project Board. For example, if I add 2 tasks to the Board View, the same 2 tasks
+will also appear in the Table View and Roadmap View.
+<br> <span class="image-wrapper"><img src="/CS2103R/images/new-board-view.png" alt="Board View after addint 2 tasks" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Board view after adding 2 tasks
+</span></span> <span class="image-wrapper"><img src="/CS2103R/images/new-table-view.png" alt="Same tasks appearing in Table View" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Same tasks appearing in Table View
+</span></span> <span class="image-wrapper"><img src="/CS2103R/images/new-roadmap-view.png" alt="Same tasks appearing in Roadmap View" width="700" height="" loading="eager" class="img-fluid rounded"> <span class="image-caption">
+Same tasks appearing in Roadmap View
+</span></span></p></div> <nav id="page-nav" data-v-e6005420><div class="nav-component slim-scroll" data-v-e6005420></div> <!----></nav> <div aria-hidden="true" class="scroll-top-button fa-lg d-print-none" style="display:none;bottom:2%;right:2%;position:fixed;"><i class="fas fa-arrow-circle-up"></i></div></div> <footer><div class="text-center"><small>[Generated by <a href="https://markbind.org/">MarkBind 5.5.2</a>]</small></div></footer></div>
+</body><script src="/CS2103R/markbind/js/bootstrap-utility.min.js"></script>
+<script src="/CS2103R/markbind/js/polyfill.min.js"></script>
+<script src="/CS2103R/markbind/js/vue.min.js"></script>
+<script src="/CS2103R/markbind/js/markbind.min.js"></script>
+<script src="addtasks.page-vue-render.js"></script>
+<script>
+  MarkBind.setupWithSearch()
+</script>
+</html>

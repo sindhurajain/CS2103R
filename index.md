@@ -62,7 +62,7 @@ and distribution of tasks by status in the form of bar charts.
 
 ##### Creating Automated Workflows
 
-User can streamline task-related workflows. 
+Users can streamline task-related workflows. 
 
 For instance, workflows can be configured to automatically add newly created issues or pull requests to the GitHub 
 Project Board, fostering efficiency in task management.
@@ -73,6 +73,7 @@ or pull request merge, seamlessly relocating it within Board View.
 ---
 
 ## Why Is It Useful for CS103?
+<br>
 
 * **Manage Tasks Timely Within Each Milestone**
   * While milestones help track groups of tasks, GitHub Project Boards provide detailed tracking of tasks within 
@@ -81,15 +82,25 @@ or pull request merge, seamlessly relocating it within Board View.
   * GitHub Project Boards reduces the need for manual oversight by using workflows to automatically update task 
   statuses to 'Backlog', 'To-Do', 'Up Next', etc. This allows users to maintain an organised task list with less 
   effort, ensuring tasks are prioritised and completed within milestone deadlines.
+
+<br>
+
 * **Centralised Project Management**
   * All team members can access and update the project board, ensuring everyone is on
     the same page regarding task progress and status, removing areas of confusion.
   * Direct integration with the tP repository makes it easy to manage both development work and project tasks 
   automatically in one location. This eliminates the need for separate tools and, by automating workflows, reduces 
   the risk of human error, such as forgetting to update teammates on progress.
+
+<br>
+
 * **Fair Division of Workload**
   * Using 'Insights', GitHub Project Boards enables teams to track the distribution of workload across all members. 
-  This helps ensure that everyone is contributing evenly and that no single member is overloaded, achieving a fair division of tasks.
+  This helps ensure that everyone is contributing evenly and that no single member is overloaded, achieving a fair 
+  division of tasks.
+
+<br>
+
 * **Reduce Merge Conflicts**
   * By enabling users to schedule timelines for individual issues, users can anticipate potential merge conflicts and
     plan their tasks such that they can reduce merge conflicts as much as possible, promoting smoother collaboration and
@@ -98,8 +109,12 @@ or pull request merge, seamlessly relocating it within Board View.
 ---
 
 ## Potential Drawbacks
+<br>
 
 * Managing and navigating another tool can lead to greater workload, especially after 
 already being accustomed to existing tools or having to juggle between multiple tools.
+
+<br>
+
 * Time and effort is needed to become familiarised with its features. The learning curve associated 
 with learning this new tool may initially slow down productivity while adapting to using the tool.

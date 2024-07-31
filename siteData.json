@@ -13,6 +13,18 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/about.md",
+      "title": "About",
+      "headings": {
+        "about": "About",
+        "welcome": "Welcome!",
+        "purpose": "Purpose",
+        "what-you-ll-find-here": "What You’ll Find Here",
+        "why-github-project-boards": "Why GitHub Project Boards?"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/addingfields.md",
       "title": "Adding Fields to Tasks",
       "headings": {

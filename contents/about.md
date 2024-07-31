@@ -21,7 +21,7 @@
         <ul>
             <li><strong>Tutorials and Guides:</strong> Step-by-step instructions on setting up and using GitHub 
                         Project Boards for task management.</li>
-            <li><strong>Tips:</strong> Although GitHub Project Boards can be used for managing any projects, 
+            <li><strong>Tips:</strong> Although GitHub Project Boards can be used for managing any project, 
                         this guide provides tailored tips to help you adapt its use specifically for the 
                         CS2103T team project.</li>
             <li><strong>Examples:</strong> Examples of how to configure features to meet your needs.</li>

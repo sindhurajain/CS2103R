@@ -31,7 +31,7 @@ This allows your tP group to track the workload distribution of tasks and ensure
 so that no teammate is overloaded with work.
 <br>
 <br>
-You can also configure the chart to Group by "Labels" to ensure that each teammate has to chance to contribute
+You can also configure the chart to Group by "Labels" to ensure that each teammate has the chance to contribute
 to different areas of software development, like bug fixing, documentation and feature enhancements.
 </box>
 

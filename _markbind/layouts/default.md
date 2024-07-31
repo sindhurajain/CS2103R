@@ -15,6 +15,8 @@
       <li><a href="{{baseUrl}}/contents/workflows.html" class="dropdown-item">Creating Automated Workflows</a></li>
     </dropdown>
     <li><a href="{{baseUrl}}/contents/faqglossary.html" class="nav-link">FAQ & Glossary</a></li>
+    <li><a href="https://github.com/sindhurajain/CS2103R/issues" class="nav-link" target="_blank">Report Bugs</a></li>
+    <li><a href="{{baseUrl}}/contents/about.html" class="nav-link">About</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -39,8 +41,10 @@
   * [Automated Insights]({{baseUrl}}/contents/insights.html)
   * [Creating Automated Workflows]({{baseUrl}}/contents/workflows.html)
 * [FAQ & Glossary]({{baseUrl}}/contents/faqglossary.html)
-      </site-nav>
-    </div>
+* <div><a href="https://github.com/sindhurajain/CS2103R/issues" target="_blank" style="color: black;">Report Bugs</a></div>
+* [About]({{baseUrl}}/contents/about.html)
+  </site-nav>
+  </div>
   </nav>
   <div id="content-wrapper">
     <breadcrumb />

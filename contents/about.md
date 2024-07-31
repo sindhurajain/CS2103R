@@ -27,8 +27,16 @@
             <li><strong>Examples:</strong> Examples of how to configure features to meet your needs.</li>
         </ul>
         <h3>Why GitHub Project Boards?</h3>
-        <p>GitHub Project Boards offers a visual way to organise and manage project tasks. 
-            They help teams stay on track, visualize workflows, and collaborate efficiently. By using these boards, 
-            you can break down your project into manageable tasks, assign responsibilities, and keep everyone in the loop.</p>
+        <p>
+            GitHub Project Boards offers a visual way to organise and manage project tasks. They help 
+            teams stay on track, visualize workflows, and collaborate efficiently. By using these boards, 
+            you can break down your project into manageable tasks, assign responsibilities, and keep 
+            everyone in the loop.
+            <site-nav>
+            [Find out more here!]({{baseUrl}}/index.html)
+            </site-nav>
+        </p>
     </div>
 </div>
+
+

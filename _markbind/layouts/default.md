@@ -4,7 +4,7 @@
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GitHub Project Boards for tP</a>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GitHub Project Boards</a>
     <li><a href="{{baseUrl}}/index.html" class="nav-link">Home</a></li>
     <li><a href="{{baseUrl}}/contents/setup.html" class="nav-link">Set Up</a></li>
     <li><a href="{{baseUrl}}/contents/addtasks.html" class="nav-link">Add Tasks</a></li>

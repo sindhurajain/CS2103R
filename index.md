@@ -12,7 +12,7 @@
   * [Visualisation of Tasks in Different Formats](#visualisation-of-tasks-in-different-formats)
   * [Automated Insights](#automated-insights)
   * [Creating Automated Workflows](#creating-automated-workflows)
-* [Why Is It Useful for CS103?](#why-is-it-useful-for-cs103)
+* [Why Is It Useful for Team Projects?](#why-is-it-useful-for-team-projects)
 * [Potential Drawbacks](#potential-drawbacks)
 
 <div style="page-break-after: always;"></div>
@@ -72,12 +72,12 @@ or pull request merge, seamlessly relocating it within Board View.
 
 ---
 
-## Why Is It Useful for CS103?
+## Why Is It Useful for Team Projects?
 <br>
 
 * **Manage Tasks Timely Within Each Milestone**
   * While milestones help track groups of tasks, GitHub Project Boards provide detailed tracking of tasks within 
-  each milestone. This allows for progress monitoring within milestones and supports the iterative and
+  each milestone of the project. This allows for progress monitoring within milestones and supports the iterative and
   incremental development process.
   * GitHub Project Boards reduces the need for manual oversight by using workflows to automatically update task 
   statuses to 'Backlog', 'To-Do', 'Up Next', etc. This allows users to maintain an organised task list with less 
@@ -88,14 +88,14 @@ or pull request merge, seamlessly relocating it within Board View.
 * **Centralised Project Management**
   * All team members can access and update the project board, ensuring everyone is on
     the same page regarding task progress and status, removing areas of confusion.
-  * Direct integration with the tP repository makes it easy to manage both development work and project tasks 
+  * Direct integration with the code repository makes it easy to manage both development work and project tasks 
   automatically in one location. This eliminates the need for separate tools and, by automating workflows, reduces 
-  the risk of human error, such as forgetting to update teammates on progress.
+  the risk of human error, such as forgetting to update groupmates on progress.
 
 <br>
 
 * **Fair Division of Workload**
-  * Using 'Insights', GitHub Project Boards enables teams to track the distribution of workload across all members. 
+  * Using 'Insights', GitHub Project Boards enables groups to track the distribution of workload across all members. 
   This helps ensure that everyone is contributing evenly and that no single member is overloaded, achieving a fair 
   division of tasks.
 

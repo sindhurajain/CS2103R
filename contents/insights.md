@@ -21,18 +21,18 @@ To add a custom chart, click on the "New chart" button in the left menu, then co
 </pic>
 
 <box type="tip">
-tP tips:
+Tips for team projects:
 <br>
 A useful custom chat to create would be a bar graph of the number of tasks grouped by assignee. The y-axis in
 this case would be "Count of items" and the x-axis would be "Assignees".
 <br>
 <br>
-This allows your tP group to track the workload distribution of tasks and ensure that it is roughly even
-so that no teammate is overloaded with work.
+This allows your project group to track the workload distribution of tasks and ensure that it is roughly even
+so that no groupmate is overloaded with work.
 <br>
 <br>
 You can also configure the chart to Group by "Labels" to ensure that each teammate has the chance to contribute
-to different areas of software development, like bug fixing, documentation and feature enhancements.
+to and explore different areas of software development, like bug fixing, documentation and feature enhancements.
 </box>
 
 <br>

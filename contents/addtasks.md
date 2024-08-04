@@ -57,15 +57,15 @@ Add existing item to Project Board
 <br>
 
 <box type="tip">
-tP tip:
+Tips for team projects:
 <br>
 While a Project Board can display issues or pull requests from multiple repositories, it is better 
-to add issues or pull requests from only your group's forked tP repository to your group's tP Project Board 
+to add issues or pull requests from only your team project's code repository to your team's Project Board 
 so that you can maintain a more focused view. 
 <br>
 <br>
-This ensures that all the issues and pull requests you're tracking are relevant to your specific fork, 
-simplifying management of the tasks your group has to complete.
+This ensures that all the issues and pull requests you're tracking are relevant to the specific project your team
+is working on, simplifying management of the tasks your group has to complete.
 </box>
 
 Like any other issue created on GitHub, you can click on the issue on the View page and to manage it.

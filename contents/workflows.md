@@ -28,9 +28,9 @@ the "Save and turn on workflow" button.
 
 <br>
 <box type="tip">
-tP tips:
+Tips for team projects:
 <br>
-Some workflows that are more useful for the tP are:
+Some workflows that are more useful for team projects are:
 <br>
 1. Item added to project
 <br>
@@ -44,11 +44,11 @@ Some workflows that are more useful for the tP are:
 </box>
 <br>
 
-!!Useful workflows for CS2103T!!
+!!Useful workflows for team projects!!
 
 1. When an issue or pull request is added to a project, set its status as "Todo".
 
-This clearly marks new tasks or features that need to be addressed, helping CS2103T
+This clearly marks new tasks or features that need to be addressed, helping 
 team members understand what needs attention and ensures that nothing gets overlooked.
 
 Team members can quickly

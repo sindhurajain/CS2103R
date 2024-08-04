@@ -30,7 +30,7 @@ slice by field, sort by field, etc.
 <br>
 
 <box type="tip">
-tP tips:
+Tips for team projects:
 <br>
 - Sort by a particular field to prioritise tasks by that field. 
 <br>

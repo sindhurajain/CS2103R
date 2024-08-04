@@ -18,7 +18,6 @@
       "headings": {
         "about": "About",
         "welcome": "Welcome!",
-        "purpose": "Purpose",
         "what-you-ll-find-here": "What You’ll Find Here",
         "why-github-project-boards": "Why GitHub Project Boards?"
       },
@@ -88,7 +87,7 @@
         "table-of-contents": "Table of Contents",
         "overview-of-github-project-boards": "Overview of GitHub Project Boards",
         "overview-of-features": "Overview of Features",
-        "why-is-it-useful-for-cs103": "Why Is It Useful for CS103?",
+        "why-is-it-useful-for-team-projects": "Why Is It Useful for Team Projects?",
         "potential-drawbacks": "Potential Drawbacks"
       },
       "headingKeywords": {}
